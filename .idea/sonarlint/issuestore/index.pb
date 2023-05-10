@@ -15,3 +15,13 @@ Jlibrary-service/src/main/java/com/kitaplik/libraryservice/dto/BookIdDto.kt,7\b
 [library-service/src/main/java/com/kitaplik/libraryservice/repository/LibraryRepository.java,8\4\843df67c917ac38fc83ff28d0c31f6b32b0add60
 x
 Hlibrary-service/src/main/java/com/kitaplik/libraryservice/dto/BookDto.kt,a\c\ac24a0087e2ce572aa7d323aecc6d08883f69753
+{
+Klibrary-service/src/main/java/com/kitaplik/libraryservice/dto/LibraryDto.kt,7\3\730aab9aca21de67ba7de8e6bf053195d00e9d55
+z
+Jlibrary-service/src/main/java/com/kitaplik/libraryservice/model/Library.kt,6\f\6f567f114cd0c63247ee744de32e896dd8b5be1a
+q
+Abook-service/src/main/java/com/kitaplik/bookservice/model/Book.kt,6\0\60e49e8199ce87af0cba234261d619d2e2ffa55a
+E
+eureka-server/pom.xml,b\3\b39ae52d769ea03b699b5602439afd875433c8a7
+t
+Dbook-service/src/main/java/com/kitaplik/bookservice/dto/BookIdDto.kt,4\0\404ce08265140c9293884b941ab97d15b1876c0b
