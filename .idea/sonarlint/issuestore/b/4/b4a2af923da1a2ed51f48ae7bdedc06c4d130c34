@@ -1,0 +1,5 @@
+
+c
+java:S2259,"FA "NullPointerException" could be thrown; "getBody()" can return null.(¼‎ֻ8נבה­ÿ0
+o
+java:S6204""RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ד₪£’8פבה­ÿ0
