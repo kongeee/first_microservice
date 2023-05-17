@@ -17,9 +17,10 @@
 		<java.version>17</java.version>
 		<spring-cloud.version>2021.0.4</spring-cloud.version>
 
-		<!-- eger mvn sprign-boot:run komutunda hata aliyorsan sagidaki iki komutu terminale java -version yaptiginda cikan java versionunu yaz -->
+		<!-- eger mvn sprign-boot:run komutunda hata aliyorsan sagidaki iki komutu terminale java -version yaptiginda cikan java versionunu yaz
 		<maven.compiler.target>19</maven.compiler.target>
 		<maven.compiler.source>19</maven.compiler.source>
+		-->
 	</properties>
 	<dependencies>
 		<dependency>
